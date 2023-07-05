@@ -1,0 +1,13 @@
+html{
+    background-color:#BE3455;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+.parent {
+    width: 500px;
+    margin: 0 auto;
+  }
